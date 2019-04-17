@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   airflow:
   - appVersion: 1.7.1
-    created: 2019-04-05T07:22:09.867993597Z
+    created: 2019-04-17T10:06:10.427651465Z
     description: Airflow chart
     digest: a19db5cf3c59ca29e8b32c280bc08d7ce647ee36922ce2cec7c2a28c78d844e5
     maintainers:
@@ -19,7 +19,7 @@ entries:
     - airflow/airflow-1.0.0-rc2.tgz
     version: 1.0.0-rc2
   - appVersion: 1.7.1
-    created: 2019-04-05T07:22:09.867468909Z
+    created: 2019-04-17T10:06:10.427138847Z
     description: Airflow chart
     digest: 966581ce40522fd8a7637d1209044ee56c3df41e11322535733a988c7c0df124
     maintainers:
@@ -36,7 +36,7 @@ entries:
     - airflow/airflow-1.0.0-rc1.tgz
     version: 1.0.0-rc1
   - appVersion: 1.7.1
-    created: 2019-04-05T07:22:09.866968154Z
+    created: 2019-04-17T10:06:10.426641316Z
     description: Airflow chart
     digest: 1411f9ab5543258e789eb4d8875555c0be55f2203a316ad93b185a3176412d7a
     maintainers:
@@ -53,7 +53,7 @@ entries:
     - airflow/airflow-0.11.0.tgz
     version: 0.11.0
   - appVersion: 1.7.1
-    created: 2019-04-05T07:22:09.866427679Z
+    created: 2019-04-17T10:06:10.426101396Z
     description: Airflow chart
     digest: 83d0c03022a080d2764b301dc4c761b74db4791b9de94f85f979125c7c554ed8
     maintainers:
@@ -72,7 +72,25 @@ entries:
   dex:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.869536494Z
+    created: 2019-04-17T10:06:10.429293277Z
+    description: A Helm chart for Kubernetes
+    digest: c30d8244ca45be4aadf18f611287ff317cd5f9a927b74f5cd6cd9689ebcc0390
+    maintainers:
+    - email: alexey@kharlamov.biz
+      name: Alexey Kharlamov
+    - email: suslov.dimitriy@gmail.com
+      name: Dmitrii Suslov
+    - email: am.semenets@gmail.com
+      name: Alexander Semenets
+    - email: kirill@makhonin.biz
+      name: Kirill Makhonin
+    name: dex
+    urls:
+    - dex/dex-1.0.0-rc5.tgz
+    version: 1.0.0-rc5
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-04-17T10:06:10.429001115Z
     description: A Helm chart for Kubernetes
     digest: 5ac8ae9d758ac9be32e51de167c844bf729093684e4ef92fd037be38cdf11aae
     maintainers:
@@ -90,7 +108,7 @@ entries:
     version: 1.0.0-rc3
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.869225371Z
+    created: 2019-04-17T10:06:10.428739917Z
     description: A Helm chart for Kubernetes
     digest: 264a6ae8050cdc10e90a90bcf95300d58a99cf56690f26444818e5801ab48c1b
     maintainers:
@@ -108,7 +126,7 @@ entries:
     version: 1.0.0-rc2
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.868946206Z
+    created: 2019-04-17T10:06:10.428477291Z
     description: A Helm chart for Kubernetes
     digest: fee89b18efff1d785ce8d9220f4dbf1a17a146c8f7fe2c74bd882cb0d3f5a3b5
     maintainers:
@@ -126,7 +144,7 @@ entries:
     version: 1.0.0-rc1
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.868555988Z
+    created: 2019-04-17T10:06:10.428195345Z
     description: A Helm chart for Kubernetes
     digest: 521085b5fd23a79ec66d2ce87af68030e718a90e168c529dff2b1421da4c4f00
     maintainers:
@@ -144,7 +162,7 @@ entries:
     version: 0.11.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.868277922Z
+    created: 2019-04-17T10:06:10.427930573Z
     description: A Helm chart for Kubernetes
     digest: 207c40254efbbaca1365bdb984dd57cca33cb2d1ba10298fdb0874244723fe69
     maintainers:
@@ -163,7 +181,25 @@ entries:
   k8s-authenticator:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.870851889Z
+    created: 2019-04-17T10:06:10.430877505Z
+    description: A Helm chart for Kubernetes
+    digest: dc38f34275c26e04ec456c5ecbce4deba650c0ab0352a4df2e000a1a4bdba29a
+    maintainers:
+    - email: alexey@kharlamov.biz
+      name: Alexey Kharlamov
+    - email: suslov.dimitriy@gmail.com
+      name: Dmitrii Suslov
+    - email: am.semenets@gmail.com
+      name: Alexander Semenets
+    - email: kirill@makhonin.biz
+      name: Kirill Makhonin
+    name: k8s-authenticator
+    urls:
+    - k8s-authenticator/k8s-authenticator-1.0.0-rc5.tgz
+    version: 1.0.0-rc5
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-04-17T10:06:10.430575248Z
     description: A Helm chart for Kubernetes
     digest: 3df15cabe3d12b9172aca2345b790a60c5ec2cd7b1c2c34a6e6ac369f2de2551
     maintainers:
@@ -181,7 +217,7 @@ entries:
     version: 1.0.0-rc3
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.87058471Z
+    created: 2019-04-17T10:06:10.430301862Z
     description: A Helm chart for Kubernetes
     digest: ee40f2de63843b6d2c4746e6ea566422039452abaa5745d939a7fbcddf9bade8
     maintainers:
@@ -199,7 +235,7 @@ entries:
     version: 1.0.0-rc2
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.870331457Z
+    created: 2019-04-17T10:06:10.430046535Z
     description: A Helm chart for Kubernetes
     digest: 46e73c059d17d9ff2d02464eebf35213fb616372cd303bcbf4dd682e8b3aa178
     maintainers:
@@ -217,7 +253,7 @@ entries:
     version: 1.0.0-rc1
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.870067476Z
+    created: 2019-04-17T10:06:10.429792827Z
     description: A Helm chart for Kubernetes
     digest: 360377ecf99117ccd0bb3e4e83432e8923ee81e0215a23da8318227f731e0d29
     maintainers:
@@ -235,7 +271,7 @@ entries:
     version: 0.11.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.869797961Z
+    created: 2019-04-17T10:06:10.429545002Z
     description: A Helm chart for Kubernetes
     digest: ab0b794cd675f26ae53fb7fc10bf88b623ca5ed9e52998d9936dcde8110e8041
     maintainers:
@@ -254,7 +290,25 @@ entries:
   kube-elb-security:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.872311546Z
+    created: 2019-04-17T10:06:10.433153061Z
+    description: A Helm chart for Kubernetes
+    digest: b0436a2b36b224efa3012d295d9b3939fe0eedc128b8212fdea4945dd9aca7d6
+    maintainers:
+    - email: alexey@kharlamov.biz
+      name: Alexey Kharlamov
+    - email: suslov.dimitriy@gmail.com
+      name: Dmitrii Suslov
+    - email: am.semenets@gmail.com
+      name: Alexander Semenets
+    - email: kirill@makhonin.biz
+      name: Kirill Makhonin
+    name: kube-elb-security
+    urls:
+    - kube-elb-security/kube-elb-security-1.0.0-rc5.tgz
+    version: 1.0.0-rc5
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-04-17T10:06:10.432775125Z
     description: A Helm chart for Kubernetes
     digest: f803b46bbe823e758c61d4eb304bd6cf17f547ac9d9d6dc549d71676dfe17c2c
     maintainers:
@@ -272,7 +326,7 @@ entries:
     version: 1.0.0-rc3
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.871832097Z
+    created: 2019-04-17T10:06:10.432280738Z
     description: A Helm chart for Kubernetes
     digest: 3a81e0840709563b9cd509da822d6eb7816aaf9830d20dfeb810e2ed29a148e3
     maintainers:
@@ -290,7 +344,7 @@ entries:
     version: 1.0.0-rc2
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.871440148Z
+    created: 2019-04-17T10:06:10.431721607Z
     description: A Helm chart for Kubernetes
     digest: fcbf45da3a3613e06f879b7ee9442811f9e452834f585c309fba265761322fba
     maintainers:
@@ -308,7 +362,7 @@ entries:
     version: 1.0.0-rc1
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.87124761Z
+    created: 2019-04-17T10:06:10.431294123Z
     description: A Helm chart for Kubernetes
     digest: 521fa5b1841ff100e8900623f3e750485de7432fc979fae0688244e014cb9eb6
     maintainers:
@@ -326,7 +380,7 @@ entries:
     version: 0.11.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.871050464Z
+    created: 2019-04-17T10:06:10.431084635Z
     description: A Helm chart for Kubernetes
     digest: 67c7799f8f505db88c8c625484fb972fd218b9456b3aa12fb6a009d0ed2f2185
     maintainers:
@@ -345,7 +399,25 @@ entries:
   kube-fluentd:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.873838371Z
+    created: 2019-04-17T10:06:10.435326475Z
+    description: A Helm chart for Kubernetes
+    digest: e7b493e326af2b1db1ecaa6f392d198a8bf9f2d9c3fd5359fe8a15dfa250dc53
+    maintainers:
+    - email: alexey@kharlamov.biz
+      name: Alexey Kharlamov
+    - email: suslov.dimitriy@gmail.com
+      name: Dmitrii Suslov
+    - email: am.semenets@gmail.com
+      name: Alexander Semenets
+    - email: kirill@makhonin.biz
+      name: Kirill Makhonin
+    name: kube-fluentd
+    urls:
+    - kube-fluentd/kube-fluentd-1.0.0-rc5.tgz
+    version: 1.0.0-rc5
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-04-17T10:06:10.435090423Z
     description: A Helm chart for Kubernetes
     digest: fbfe9844a6e45c5ef1435306883fc10c87e3507253c7dfc0ee938bd60108a681
     maintainers:
@@ -363,7 +435,7 @@ entries:
     version: 1.0.0-rc3
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.873642171Z
+    created: 2019-04-17T10:06:10.434745649Z
     description: A Helm chart for Kubernetes
     digest: a0dafd18f4f92c89960796345a09e3a9b8a4da28df9d369dbf1c377490aa62c7
     maintainers:
@@ -381,7 +453,7 @@ entries:
     version: 1.0.0-rc2
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.873428011Z
+    created: 2019-04-17T10:06:10.434297309Z
     description: A Helm chart for Kubernetes
     digest: e7401c76e382d02965f4bcfee90f2ba9fa9e5289acc3db39b0b12d0d816879f0
     maintainers:
@@ -399,7 +471,7 @@ entries:
     version: 1.0.0-rc1
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.873180052Z
+    created: 2019-04-17T10:06:10.433925432Z
     description: A Helm chart for Kubernetes
     digest: a06b3ab431c5a70a152c12b1b946f6936ad3d3eff32872a6975307a883f2104f
     maintainers:
@@ -417,7 +489,7 @@ entries:
     version: 0.11.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.872869289Z
+    created: 2019-04-17T10:06:10.433535993Z
     description: A Helm chart for Kubernetes
     digest: 403489e8dceb5645f77b4c2ca5391d0faa8baf1bf7c16d92bd0e93c3cea0ad77
     maintainers:
@@ -435,7 +507,7 @@ entries:
     version: 0.10.0rc9
   legion:
   - appVersion: 1.7.1
-    created: 2019-04-05T07:22:09.877750614Z
+    created: 2019-04-17T10:06:10.439207251Z
     description: Legion stack
     digest: be001620a1a71c7a3730f0771e692c057135bd84188d513cc4992ede929a0e78
     keywords:
@@ -454,7 +526,7 @@ entries:
     - legion/legion-1.0.0-rc5.tgz
     version: 1.0.0-rc5
   - appVersion: 1.7.1
-    created: 2019-04-05T07:22:09.877387584Z
+    created: 2019-04-17T10:06:10.438820734Z
     description: Legion stack
     digest: a8334ef39da118dac2611ec346a453e7b4abbb744753fde46d4dbb5c4a648987
     keywords:
@@ -473,7 +545,7 @@ entries:
     - legion/legion-1.0.0-rc4.tgz
     version: 1.0.0-rc4
   - appVersion: 1.7.1
-    created: 2019-04-05T07:22:09.877019495Z
+    created: 2019-04-17T10:06:10.438415455Z
     description: Legion stack
     digest: 600fb4a544898dd803d5c08b69e7b2b03630bcfbd38aaa3bf0a71b89d62fc880
     keywords:
@@ -492,7 +564,7 @@ entries:
     - legion/legion-1.0.0-rc3.tgz
     version: 1.0.0-rc3
   - appVersion: 1.7.1
-    created: 2019-04-05T07:22:09.87603723Z
+    created: 2019-04-17T10:06:10.437448721Z
     description: Legion stack
     digest: 634efee6d679911d2fc1dde741dee74a64bc5f1b5ac8ac6225847b195ba7ffc0
     keywords:
@@ -511,7 +583,7 @@ entries:
     - legion/legion-1.0.0-rc2.tgz
     version: 1.0.0-rc2
   - appVersion: 1.7.1
-    created: 2019-04-05T07:22:09.875060811Z
+    created: 2019-04-17T10:06:10.436491472Z
     description: Legion stack
     digest: 6dbcf1d35fd0b048d2b8adb539c1f9d4bf67c7ef56456ee93abaa0ced66673f9
     keywords:
@@ -530,7 +602,7 @@ entries:
     - legion/legion-1.0.0-rc1.tgz
     version: 1.0.0-rc1
   - appVersion: 1.7.1
-    created: 2019-04-05T07:22:09.874649673Z
+    created: 2019-04-17T10:06:10.436108464Z
     description: Legion stack
     digest: b13b31bafb8e45a49dd362d92efd57a0c31797669a0c2c3c27bea3277c1de932
     keywords:
@@ -549,7 +621,7 @@ entries:
     - legion/legion-0.11.0.tgz
     version: 0.11.0
   - appVersion: 1.7.1
-    created: 2019-04-05T07:22:09.874238658Z
+    created: 2019-04-17T10:06:10.435716651Z
     description: Legion stack
     digest: 2a4d905b133aacc33f488d146eceab416ccd270e45c33c9340cd1b7b09f2673c
     keywords:
@@ -569,7 +641,7 @@ entries:
     version: 0.10.0rc9
   legion-core:
   - appVersion: 1.7.1
-    created: 2019-04-05T07:22:09.883852641Z
+    created: 2019-04-17T10:06:10.44292702Z
     description: Legion stack core
     digest: 3fc2c54977dd739d88228fe65c21b01d4987ba6ca8e34a71173748b7a23f9041
     keywords:
@@ -588,7 +660,7 @@ entries:
     - legion-core/legion-core-1.0.0-rc5.tgz
     version: 1.0.0-rc5
   - appVersion: 1.7.1
-    created: 2019-04-05T07:22:09.88351091Z
+    created: 2019-04-17T10:06:10.442636587Z
     description: Legion stack core
     digest: a55817c62f17eeb3c0025a5752dae1a20de1d607044aec14e93df37973e8d0c0
     keywords:
@@ -607,7 +679,7 @@ entries:
     - legion-core/legion-core-1.0.0-rc4.tgz
     version: 1.0.0-rc4
   - appVersion: 1.7.1
-    created: 2019-04-05T07:22:09.883194236Z
+    created: 2019-04-17T10:06:10.442349234Z
     description: Legion stack core
     digest: 5f78e895e079210c3045d0f0ea57bdf02aad34cb00840e8ce383ae1b2bdf7ce0
     keywords:
@@ -626,7 +698,7 @@ entries:
     - legion-core/legion-core-1.0.0-rc3.tgz
     version: 1.0.0-rc3
   - appVersion: 1.7.1
-    created: 2019-04-05T07:22:09.882089407Z
+    created: 2019-04-17T10:06:10.44135807Z
     description: Legion stack core
     digest: 804e197596a3ee828eb304b02fdec2cc2ee067155f0ca917da0a6c14def3bcbc
     keywords:
@@ -645,7 +717,7 @@ entries:
     - legion-core/legion-core-1.0.0-rc2.tgz
     version: 1.0.0-rc2
   - appVersion: 1.7.1
-    created: 2019-04-05T07:22:09.879375254Z
+    created: 2019-04-17T10:06:10.44034831Z
     description: Legion stack core
     digest: cb434f4dcffb241aa48486b4233ef7bef502da73155e9721d9b4752938850162
     keywords:
@@ -664,7 +736,7 @@ entries:
     - legion-core/legion-core-1.0.0-rc1.tgz
     version: 1.0.0-rc1
   - appVersion: 1.7.1
-    created: 2019-04-05T07:22:09.87888284Z
+    created: 2019-04-17T10:06:10.440035453Z
     description: Legion stack core
     digest: d1fbb020c13c2411a97107c32290e4259ffb959c116edd64ed31f1e4041896d1
     keywords:
@@ -683,7 +755,7 @@ entries:
     - legion-core/legion-core-0.11.0.tgz
     version: 0.11.0
   - appVersion: 1.7.1
-    created: 2019-04-05T07:22:09.878234813Z
+    created: 2019-04-17T10:06:10.439630019Z
     description: Legion stack core
     digest: 1d08745f7983938a701a07a7c4e50590c2c80c76e6dc267a122bf4ff2163ea08
     keywords:
@@ -701,10 +773,49 @@ entries:
     urls:
     - legion-core/legion-core-0.10.0rc9.tgz
     version: 0.10.0rc9
+  monitoring:
+  - appVersion: 1.7.1
+    created: 2019-04-17T10:06:10.450656524Z
+    description: Legion monitoring
+    digest: ab7bf9c2c4b1e93238293bfba4b80dc8006992e0b875ac8110390b26f6c9df0f
+    keywords:
+    - ML
+    maintainers:
+    - email: alexey@kharlamov.biz
+      name: Alexey Kharlamov
+    - email: suslov.dimitriy@gmail.com
+      name: Dmitrii Suslov
+    - email: am.semenets@gmail.com
+      name: Alexander Semenets
+    - email: kirill@makhonin.biz
+      name: Kirill Makhonin
+    name: monitoring
+    urls:
+    - monitoring/monitoring-1.0.0-rc5.tgz
+    version: 1.0.0-rc5
   oauth2-proxy:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.885256551Z
+    created: 2019-04-17T10:06:10.452140602Z
+    description: oauth2-proxy (with JWT header proxy and whitelist domains for redirect)
+      chart for Kubernetes
+    digest: e435481cec19fd2eaa55a4b0f09b2cc52a5fd76c043b10453507e7b2f6dab432
+    maintainers:
+    - email: alexey@kharlamov.biz
+      name: Alexey Kharlamov
+    - email: suslov.dimitriy@gmail.com
+      name: Dmitrii Suslov
+    - email: am.semenets@gmail.com
+      name: Alexander Semenets
+    - email: kirill@makhonin.biz
+      name: Kirill Makhonin
+    name: oauth2-proxy
+    urls:
+    - oauth2-proxy/oauth2-proxy-1.0.0-rc5.tgz
+    version: 1.0.0-rc5
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-04-17T10:06:10.451895479Z
     description: oauth2-proxy (with JWT header proxy and whitelist domains for redirect)
       chart for Kubernetes
     digest: f3643aa119dc01514e445747ed1c607fdd8bb8942139e3e45a61cf549673708e
@@ -723,7 +834,7 @@ entries:
     version: 1.0.0-rc3
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.884971482Z
+    created: 2019-04-17T10:06:10.451657246Z
     description: oauth2-proxy (with JWT header proxy and whitelist domains for redirect)
       chart for Kubernetes
     digest: 6b0515aeb985ba751d8ae1e0f2e1f02a695dffb04f545166121ff028c3f8dafc
@@ -742,7 +853,7 @@ entries:
     version: 1.0.0-rc2
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.884684737Z
+    created: 2019-04-17T10:06:10.451415593Z
     description: oauth2-proxy (with JWT header proxy and whitelist domains for redirect)
       chart for Kubernetes
     digest: cfaeaac4b636f878fdef61dc5501f592e750990c815df125c1877952345f43e2
@@ -761,7 +872,7 @@ entries:
     version: 1.0.0-rc1
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.884419972Z
+    created: 2019-04-17T10:06:10.451171752Z
     description: oauth2-proxy (with JWT header proxy and whitelist domains for redirect)
       chart for Kubernetes
     digest: 6a4151ef34fbeb6abe6cef0605949aed52015610ca15acfc9aed5c3a3f28eef6
@@ -780,7 +891,7 @@ entries:
     version: 0.11.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-05T07:22:09.88414365Z
+    created: 2019-04-17T10:06:10.450920936Z
     description: oauth2-proxy (with JWT header proxy and whitelist domains for redirect)
       chart for Kubernetes
     digest: 5633477ba46185ad62f03e1b07b83b654db7d2a9d85fc34ba7aa2aaadb5f5dbc
@@ -797,4 +908,4 @@ entries:
     urls:
     - oauth2-proxy/oauth2-proxy-0.10.0rc9.tgz
     version: 0.10.0rc9
-generated: 2019-04-05T07:22:09.865787216Z
+generated: 2019-04-17T10:06:10.425432857Z
