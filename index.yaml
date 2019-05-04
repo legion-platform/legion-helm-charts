@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   airflow:
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.159384147Z
+    created: 2019-05-04T13:48:39.542894715Z
     description: Airflow chart
     digest: a19db5cf3c59ca29e8b32c280bc08d7ce647ee36922ce2cec7c2a28c78d844e5
     maintainers:
@@ -19,7 +19,7 @@ entries:
     - airflow/airflow-1.0.0-rc2.tgz
     version: 1.0.0-rc2
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.158849639Z
+    created: 2019-05-04T13:48:39.542378334Z
     description: Airflow chart
     digest: 966581ce40522fd8a7637d1209044ee56c3df41e11322535733a988c7c0df124
     maintainers:
@@ -36,7 +36,7 @@ entries:
     - airflow/airflow-1.0.0-rc1.tgz
     version: 1.0.0-rc1
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.158322617Z
+    created: 2019-05-04T13:48:39.541869798Z
     description: Airflow chart
     digest: 1411f9ab5543258e789eb4d8875555c0be55f2203a316ad93b185a3176412d7a
     maintainers:
@@ -53,7 +53,7 @@ entries:
     - airflow/airflow-0.11.0.tgz
     version: 0.11.0
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.157798704Z
+    created: 2019-05-04T13:48:39.541271572Z
     description: Airflow chart
     digest: 83d0c03022a080d2764b301dc4c761b74db4791b9de94f85f979125c7c554ed8
     maintainers:
@@ -72,7 +72,7 @@ entries:
   dex:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.161325703Z
+    created: 2019-05-04T13:48:39.544805004Z
     description: A Helm chart for Kubernetes
     digest: 750d25196398652765b0ddfff79965ab66321a8d15ec6a5bd55f4b973399ab10
     maintainers:
@@ -90,7 +90,7 @@ entries:
     version: 1.0.0-rc6
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.161050546Z
+    created: 2019-05-04T13:48:39.544528617Z
     description: A Helm chart for Kubernetes
     digest: c30d8244ca45be4aadf18f611287ff317cd5f9a927b74f5cd6cd9689ebcc0390
     maintainers:
@@ -108,7 +108,7 @@ entries:
     version: 1.0.0-rc5
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.160743953Z
+    created: 2019-05-04T13:48:39.544259211Z
     description: A Helm chart for Kubernetes
     digest: 5ac8ae9d758ac9be32e51de167c844bf729093684e4ef92fd037be38cdf11aae
     maintainers:
@@ -126,7 +126,7 @@ entries:
     version: 1.0.0-rc3
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.160470135Z
+    created: 2019-05-04T13:48:39.543992741Z
     description: A Helm chart for Kubernetes
     digest: 264a6ae8050cdc10e90a90bcf95300d58a99cf56690f26444818e5801ab48c1b
     maintainers:
@@ -144,7 +144,7 @@ entries:
     version: 1.0.0-rc2
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.160202877Z
+    created: 2019-05-04T13:48:39.543728258Z
     description: A Helm chart for Kubernetes
     digest: fee89b18efff1d785ce8d9220f4dbf1a17a146c8f7fe2c74bd882cb0d3f5a3b5
     maintainers:
@@ -162,7 +162,7 @@ entries:
     version: 1.0.0-rc1
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.159933915Z
+    created: 2019-05-04T13:48:39.543464205Z
     description: A Helm chart for Kubernetes
     digest: 521085b5fd23a79ec66d2ce87af68030e718a90e168c529dff2b1421da4c4f00
     maintainers:
@@ -180,7 +180,7 @@ entries:
     version: 0.11.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.159662217Z
+    created: 2019-05-04T13:48:39.543197584Z
     description: A Helm chart for Kubernetes
     digest: 207c40254efbbaca1365bdb984dd57cca33cb2d1ba10298fdb0874244723fe69
     maintainers:
@@ -199,7 +199,7 @@ entries:
   k8s-authenticator:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.164069343Z
+    created: 2019-05-04T13:48:39.547407811Z
     description: A Helm chart for Kubernetes
     digest: dc843b74a2d7275e68f85b65350c40a0741af8bf13353c3a39e94252b1377114
     maintainers:
@@ -217,7 +217,7 @@ entries:
     version: 1.0.0-rc6
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.163487406Z
+    created: 2019-05-04T13:48:39.547129462Z
     description: A Helm chart for Kubernetes
     digest: dc38f34275c26e04ec456c5ecbce4deba650c0ab0352a4df2e000a1a4bdba29a
     maintainers:
@@ -235,7 +235,7 @@ entries:
     version: 1.0.0-rc5
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.162835508Z
+    created: 2019-05-04T13:48:39.546457401Z
     description: A Helm chart for Kubernetes
     digest: 3df15cabe3d12b9172aca2345b790a60c5ec2cd7b1c2c34a6e6ac369f2de2551
     maintainers:
@@ -253,7 +253,7 @@ entries:
     version: 1.0.0-rc3
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.162365117Z
+    created: 2019-05-04T13:48:39.546033699Z
     description: A Helm chart for Kubernetes
     digest: ee40f2de63843b6d2c4746e6ea566422039452abaa5745d939a7fbcddf9bade8
     maintainers:
@@ -271,7 +271,7 @@ entries:
     version: 1.0.0-rc2
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.162103179Z
+    created: 2019-05-04T13:48:39.545629569Z
     description: A Helm chart for Kubernetes
     digest: 46e73c059d17d9ff2d02464eebf35213fb616372cd303bcbf4dd682e8b3aa178
     maintainers:
@@ -289,7 +289,7 @@ entries:
     version: 1.0.0-rc1
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.161847589Z
+    created: 2019-05-04T13:48:39.54535194Z
     description: A Helm chart for Kubernetes
     digest: 360377ecf99117ccd0bb3e4e83432e8923ee81e0215a23da8318227f731e0d29
     maintainers:
@@ -307,7 +307,7 @@ entries:
     version: 0.11.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.161586636Z
+    created: 2019-05-04T13:48:39.545074692Z
     description: A Helm chart for Kubernetes
     digest: ab0b794cd675f26ae53fb7fc10bf88b623ca5ed9e52998d9936dcde8110e8041
     maintainers:
@@ -326,7 +326,7 @@ entries:
   kube-elb-security:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.165752142Z
+    created: 2019-05-04T13:48:39.548869906Z
     description: A Helm chart for Kubernetes
     digest: 8dea462eec28406a786f42b07e44f3d5784659d148b25d76d76c30eb6d62ccbd
     maintainers:
@@ -344,7 +344,7 @@ entries:
     version: 1.0.0-rc6
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.165553142Z
+    created: 2019-05-04T13:48:39.548662837Z
     description: A Helm chart for Kubernetes
     digest: b0436a2b36b224efa3012d295d9b3939fe0eedc128b8212fdea4945dd9aca7d6
     maintainers:
@@ -362,7 +362,7 @@ entries:
     version: 1.0.0-rc5
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.16535848Z
+    created: 2019-05-04T13:48:39.548460678Z
     description: A Helm chart for Kubernetes
     digest: f803b46bbe823e758c61d4eb304bd6cf17f547ac9d9d6dc549d71676dfe17c2c
     maintainers:
@@ -380,7 +380,7 @@ entries:
     version: 1.0.0-rc3
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.165164194Z
+    created: 2019-05-04T13:48:39.548269477Z
     description: A Helm chart for Kubernetes
     digest: 3a81e0840709563b9cd509da822d6eb7816aaf9830d20dfeb810e2ed29a148e3
     maintainers:
@@ -398,7 +398,7 @@ entries:
     version: 1.0.0-rc2
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.164971098Z
+    created: 2019-05-04T13:48:39.54803908Z
     description: A Helm chart for Kubernetes
     digest: fcbf45da3a3613e06f879b7ee9442811f9e452834f585c309fba265761322fba
     maintainers:
@@ -416,7 +416,7 @@ entries:
     version: 1.0.0-rc1
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.164772835Z
+    created: 2019-05-04T13:48:39.547846708Z
     description: A Helm chart for Kubernetes
     digest: 521fa5b1841ff100e8900623f3e750485de7432fc979fae0688244e014cb9eb6
     maintainers:
@@ -434,7 +434,7 @@ entries:
     version: 0.11.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.16456002Z
+    created: 2019-05-04T13:48:39.547649463Z
     description: A Helm chart for Kubernetes
     digest: 67c7799f8f505db88c8c625484fb972fd218b9456b3aa12fb6a009d0ed2f2185
     maintainers:
@@ -453,7 +453,7 @@ entries:
   kube-fluentd:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.167199348Z
+    created: 2019-05-04T13:48:39.550283206Z
     description: A Helm chart for Kubernetes
     digest: 0827abd724196c079449daa04f06e22578651bbf572b66cd9ea632099d637fd1
     maintainers:
@@ -471,7 +471,7 @@ entries:
     version: 1.0.0-rc6
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.166968341Z
+    created: 2019-05-04T13:48:39.550086862Z
     description: A Helm chart for Kubernetes
     digest: e7b493e326af2b1db1ecaa6f392d198a8bf9f2d9c3fd5359fe8a15dfa250dc53
     maintainers:
@@ -489,7 +489,7 @@ entries:
     version: 1.0.0-rc5
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.166765769Z
+    created: 2019-05-04T13:48:39.549889635Z
     description: A Helm chart for Kubernetes
     digest: fbfe9844a6e45c5ef1435306883fc10c87e3507253c7dfc0ee938bd60108a681
     maintainers:
@@ -507,7 +507,7 @@ entries:
     version: 1.0.0-rc3
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.166570997Z
+    created: 2019-05-04T13:48:39.549689012Z
     description: A Helm chart for Kubernetes
     digest: a0dafd18f4f92c89960796345a09e3a9b8a4da28df9d369dbf1c377490aa62c7
     maintainers:
@@ -525,7 +525,7 @@ entries:
     version: 1.0.0-rc2
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.166371731Z
+    created: 2019-05-04T13:48:39.549465909Z
     description: A Helm chart for Kubernetes
     digest: e7401c76e382d02965f4bcfee90f2ba9fa9e5289acc3db39b0b12d0d816879f0
     maintainers:
@@ -543,7 +543,7 @@ entries:
     version: 1.0.0-rc1
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.166176892Z
+    created: 2019-05-04T13:48:39.549261202Z
     description: A Helm chart for Kubernetes
     digest: a06b3ab431c5a70a152c12b1b946f6936ad3d3eff32872a6975307a883f2104f
     maintainers:
@@ -561,7 +561,7 @@ entries:
     version: 0.11.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.165961966Z
+    created: 2019-05-04T13:48:39.549065756Z
     description: A Helm chart for Kubernetes
     digest: 403489e8dceb5645f77b4c2ca5391d0faa8baf1bf7c16d92bd0e93c3cea0ad77
     maintainers:
@@ -579,9 +579,9 @@ entries:
     version: 0.10.0rc9
   legion:
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.171824651Z
+    created: 2019-05-04T13:48:39.55488449Z
     description: Legion stack
-    digest: dcdaa794a7ecf0780bfce589f295d9c82af8e34374c39b25e04f2bacb4523fec
+    digest: e44956b8d382fc0c187927f73b48a92c8b493750b904a4db2fdc1b29d41a3abb
     keywords:
     - ML
     maintainers:
@@ -598,7 +598,7 @@ entries:
     - legion/legion-1.0.0-rc7.tgz
     version: 1.0.0-rc7
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.171227501Z
+    created: 2019-05-04T13:48:39.554263962Z
     description: Legion stack
     digest: be001620a1a71c7a3730f0771e692c057135bd84188d513cc4992ede929a0e78
     keywords:
@@ -617,7 +617,7 @@ entries:
     - legion/legion-1.0.0-rc5.tgz
     version: 1.0.0-rc5
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.170825381Z
+    created: 2019-05-04T13:48:39.553894048Z
     description: Legion stack
     digest: a8334ef39da118dac2611ec346a453e7b4abbb744753fde46d4dbb5c4a648987
     keywords:
@@ -636,7 +636,7 @@ entries:
     - legion/legion-1.0.0-rc4.tgz
     version: 1.0.0-rc4
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.170447955Z
+    created: 2019-05-04T13:48:39.553516293Z
     description: Legion stack
     digest: 600fb4a544898dd803d5c08b69e7b2b03630bcfbd38aaa3bf0a71b89d62fc880
     keywords:
@@ -655,7 +655,7 @@ entries:
     - legion/legion-1.0.0-rc3.tgz
     version: 1.0.0-rc3
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.169470849Z
+    created: 2019-05-04T13:48:39.552532665Z
     description: Legion stack
     digest: 634efee6d679911d2fc1dde741dee74a64bc5f1b5ac8ac6225847b195ba7ffc0
     keywords:
@@ -674,7 +674,7 @@ entries:
     - legion/legion-1.0.0-rc2.tgz
     version: 1.0.0-rc2
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.168457554Z
+    created: 2019-05-04T13:48:39.551553024Z
     description: Legion stack
     digest: 6dbcf1d35fd0b048d2b8adb539c1f9d4bf67c7ef56456ee93abaa0ced66673f9
     keywords:
@@ -693,7 +693,7 @@ entries:
     - legion/legion-1.0.0-rc1.tgz
     version: 1.0.0-rc1
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.168071969Z
+    created: 2019-05-04T13:48:39.551145563Z
     description: Legion stack
     digest: b13b31bafb8e45a49dd362d92efd57a0c31797669a0c2c3c27bea3277c1de932
     keywords:
@@ -712,7 +712,7 @@ entries:
     - legion/legion-0.11.0.tgz
     version: 0.11.0
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.167637994Z
+    created: 2019-05-04T13:48:39.550717241Z
     description: Legion stack
     digest: 2a4d905b133aacc33f488d146eceab416ccd270e45c33c9340cd1b7b09f2673c
     keywords:
@@ -732,7 +732,7 @@ entries:
     version: 0.10.0rc9
   legion-core:
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.177334263Z
+    created: 2019-05-04T13:48:39.559543506Z
     description: Legion stack core
     digest: 3fc2c54977dd739d88228fe65c21b01d4987ba6ca8e34a71173748b7a23f9041
     keywords:
@@ -751,7 +751,7 @@ entries:
     - legion-core/legion-core-1.0.0-rc5.tgz
     version: 1.0.0-rc5
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.177021723Z
+    created: 2019-05-04T13:48:39.559280255Z
     description: Legion stack core
     digest: a55817c62f17eeb3c0025a5752dae1a20de1d607044aec14e93df37973e8d0c0
     keywords:
@@ -770,7 +770,7 @@ entries:
     - legion-core/legion-core-1.0.0-rc4.tgz
     version: 1.0.0-rc4
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.176741114Z
+    created: 2019-05-04T13:48:39.558983018Z
     description: Legion stack core
     digest: 5f78e895e079210c3045d0f0ea57bdf02aad34cb00840e8ce383ae1b2bdf7ce0
     keywords:
@@ -789,7 +789,7 @@ entries:
     - legion-core/legion-core-1.0.0-rc3.tgz
     version: 1.0.0-rc3
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.174278991Z
+    created: 2019-05-04T13:48:39.557951327Z
     description: Legion stack core
     digest: 804e197596a3ee828eb304b02fdec2cc2ee067155f0ca917da0a6c14def3bcbc
     keywords:
@@ -808,7 +808,7 @@ entries:
     - legion-core/legion-core-1.0.0-rc2.tgz
     version: 1.0.0-rc2
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.173142402Z
+    created: 2019-05-04T13:48:39.556192401Z
     description: Legion stack core
     digest: cb434f4dcffb241aa48486b4233ef7bef502da73155e9721d9b4752938850162
     keywords:
@@ -827,7 +827,7 @@ entries:
     - legion-core/legion-core-1.0.0-rc1.tgz
     version: 1.0.0-rc1
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.172783785Z
+    created: 2019-05-04T13:48:39.555841897Z
     description: Legion stack core
     digest: d1fbb020c13c2411a97107c32290e4259ffb959c116edd64ed31f1e4041896d1
     keywords:
@@ -846,7 +846,7 @@ entries:
     - legion-core/legion-core-0.11.0.tgz
     version: 0.11.0
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.17231137Z
+    created: 2019-05-04T13:48:39.555380058Z
     description: Legion stack core
     digest: 1d08745f7983938a701a07a7c4e50590c2c80c76e6dc267a122bf4ff2163ea08
     keywords:
@@ -866,9 +866,9 @@ entries:
     version: 0.10.0rc9
   legion-crds:
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.177553846Z
+    created: 2019-05-04T13:48:39.559771715Z
     description: Legion stack
-    digest: 562279701e81f5daec0828499db447e7a4531e8b84a02c9ca4f697f59e2deacf
+    digest: b04fcc65a18a95a4eb53864d319391a8ebdc159b2851c4712e999db87acdd39e
     keywords:
     - ML
     maintainers:
@@ -886,7 +886,7 @@ entries:
     version: 1.0.0-rc7
   monitoring:
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.196227569Z
+    created: 2019-05-04T13:48:39.573397382Z
     description: Legion monitoring
     digest: 53ab2d13372a92c3a03551ade3bb075f36666cae7903e51e1779bfbd10aaa0bc
     keywords:
@@ -905,7 +905,7 @@ entries:
     - monitoring/monitoring-1.0.0-rc6.tgz
     version: 1.0.0-rc6
   - appVersion: 1.7.1
-    created: 2019-05-04T13:36:38.187099313Z
+    created: 2019-05-04T13:48:39.566799402Z
     description: Legion monitoring
     digest: ab7bf9c2c4b1e93238293bfba4b80dc8006992e0b875ac8110390b26f6c9df0f
     keywords:
@@ -926,7 +926,7 @@ entries:
   oauth2-proxy:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.198974873Z
+    created: 2019-05-04T13:48:39.575347857Z
     description: oauth2-proxy (with JWT header proxy and whitelist domains for redirect)
       chart for Kubernetes
     digest: 1dda01041eeb98b09cff87e4224115aded870590a8d373948b4e1161e9b65401
@@ -945,7 +945,7 @@ entries:
     version: 1.0.0-rc6
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.198577327Z
+    created: 2019-05-04T13:48:39.575074645Z
     description: oauth2-proxy (with JWT header proxy and whitelist domains for redirect)
       chart for Kubernetes
     digest: e435481cec19fd2eaa55a4b0f09b2cc52a5fd76c043b10453507e7b2f6dab432
@@ -964,7 +964,7 @@ entries:
     version: 1.0.0-rc5
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.198279076Z
+    created: 2019-05-04T13:48:39.574788389Z
     description: oauth2-proxy (with JWT header proxy and whitelist domains for redirect)
       chart for Kubernetes
     digest: f3643aa119dc01514e445747ed1c607fdd8bb8942139e3e45a61cf549673708e
@@ -983,7 +983,7 @@ entries:
     version: 1.0.0-rc3
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.19792369Z
+    created: 2019-05-04T13:48:39.5745173Z
     description: oauth2-proxy (with JWT header proxy and whitelist domains for redirect)
       chart for Kubernetes
     digest: 6b0515aeb985ba751d8ae1e0f2e1f02a695dffb04f545166121ff028c3f8dafc
@@ -1002,7 +1002,7 @@ entries:
     version: 1.0.0-rc2
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.197486745Z
+    created: 2019-05-04T13:48:39.574242648Z
     description: oauth2-proxy (with JWT header proxy and whitelist domains for redirect)
       chart for Kubernetes
     digest: cfaeaac4b636f878fdef61dc5501f592e750990c815df125c1877952345f43e2
@@ -1021,7 +1021,7 @@ entries:
     version: 1.0.0-rc1
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.197047994Z
+    created: 2019-05-04T13:48:39.573974039Z
     description: oauth2-proxy (with JWT header proxy and whitelist domains for redirect)
       chart for Kubernetes
     digest: 6a4151ef34fbeb6abe6cef0605949aed52015610ca15acfc9aed5c3a3f28eef6
@@ -1040,7 +1040,7 @@ entries:
     version: 0.11.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-04T13:36:38.196613236Z
+    created: 2019-05-04T13:48:39.573692437Z
     description: oauth2-proxy (with JWT header proxy and whitelist domains for redirect)
       chart for Kubernetes
     digest: 5633477ba46185ad62f03e1b07b83b654db7d2a9d85fc34ba7aa2aaadb5f5dbc
@@ -1057,4 +1057,4 @@ entries:
     urls:
     - oauth2-proxy/oauth2-proxy-0.10.0rc9.tgz
     version: 0.10.0rc9
-generated: 2019-05-04T13:36:38.15713348Z
+generated: 2019-05-04T13:48:39.540638673Z
